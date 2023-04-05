@@ -8,7 +8,7 @@ function App() {
         <h2>Registration Form</h2>
         <form>
           <div className="form-group">
-            <label for="exampleInputEmail1">Email address</label>
+            <label for="exampleInputEmail1">Email Address</label>
             <input
               type="email"
               className="form-control"
